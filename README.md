@@ -1,2 +1,4 @@
 # hello-world
-My first repository
+My first repository.
+
+I am student at Codecool in Cracow.
